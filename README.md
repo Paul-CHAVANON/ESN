@@ -1,2 +1,2 @@
 # ESN
-ESN, projet étudiant
+ESN, projet étudiant, permet de contextuatliser des propos
